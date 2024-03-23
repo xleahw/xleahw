@@ -1,8 +1,21 @@
 ![straw](https://github.com/xleahw/xleahw/assets/111613370/0084c5b1-41f2-4b9c-8f77-0875310f1c40)
 
 # 🍓 About Me:
-public class maleahWeathersby {<br>       public static void main(String[] args) {<br>        // Variables to store information about myself<br>        String name = "Maleah G Weathersby";<br>        int age = 19;<br>        String occupation = "computer science student at the University of Georgia";<br>        String interests = "web development, car games, and nature";<br><br>        // Print introduction<br>        System.out.println("Hello, I am " + name + "!");<br>        System.out.println("I am " + age + " years old.");<br>        System.out.println("I am a " + occupation + ".");<br>        System.out.println("Some of my interests include: " + interests + ".");<br>        System.out.println("Nice to meet you!");<br>    }<br>}
-
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">public class aboutMe {
+    public static void main(String[] args) {
+        String name = "Maleah Weathersby";
+        int age = 19;
+        String occupation = "CS student at the University of Georgia";
+        String interests = "web development, car games, and nature";
+        System.out.println("Hello, I'm " + name + "!");
+        System.out.println("I am " + age + " years old.");
+        System.out.println("I am a " + occupation + ".");
+        System.out.println("Some of my interests include: " + interests + ".");
+        System.out.println("Nice to meet you!");
+    }
+}
+</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maleah-weathersby-0b7338249/) 
