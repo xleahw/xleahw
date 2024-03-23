@@ -1,8 +1,6 @@
 ![straw](https://github.com/xleahw/xleahw/assets/111613370/0084c5b1-41f2-4b9c-8f77-0875310f1c40)
-![212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52](https://github.com/xleahw/xleahw/assets/111613370/87414667-4a3f-4ff5-affe-19e76ee8b7ce)
 
-
-# 💫 About Me:
+# 🍓 About Me:
 public class maleahWeathersby {<br>    public static void main(String[] args) {<br>        // Variables to store information about myself<br>        String name = "Maleah G Weathersby";<br>        int age = 19;<br>        String occupation = "computer science student at the University of Georgia";<br>        String interests = "web development, car games, and nature";<br><br>        // Print introduction<br>        System.out.println("Hello, I am " + name + "!");<br>        System.out.println("I am " + age + " years old.");<br>        System.out.println("I am a " + occupation + ".");<br>        System.out.println("Some of my interests include: " + interests + ".");<br>        System.out.println("Nice to meet you!");<br>    }<br>}
 
 
@@ -16,13 +14,13 @@ public class maleahWeathersby {<br>    public static void main(String[] args) {<
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xleahw&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xleahw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xleahw&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52](https://github.com/xleahw/xleahw/assets/111613370/87414667-4a3f-4ff5-affe-19e76ee8b7ce)
