@@ -24,4 +24,4 @@ public class maleahWeathersby {<br>       public static void main(String[] args)
 ---
 [![](https://visitcount.itsvg.in/api?id=xleahw&icon=0&color=7)](https://visitcount.itsvg.in)
 
-[212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52](https://github.com/xleahw/xleahw/assets/111613370/87414667-4a3f-4ff5-affe-19e76ee8b7ce)
+![212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52](https://github.com/xleahw/xleahw/assets/111613370/87414667-4a3f-4ff5-affe-19e76ee8b7ce)
