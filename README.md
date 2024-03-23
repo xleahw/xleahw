@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/czd6OUPM5wZLBnHTN6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xbox-game-xbox-series-x-s-czd6OUPM5wZLBnHTN6">via GIPHY</a></p>
+
 # 💫 About Me:
 public class maleahWeathersby {<br>    public static void main(String[] args) {<br>        // Variables to store information about myself<br>        String name = "Maleah G Weathersby";<br>        int age = 19;<br>        String occupation = "computer science student at the University of Georgia";<br>        String interests = "web development, car games, and nature";<br><br>        // Print introduction<br>        System.out.println("Hello, I am " + name + "!");<br>        System.out.println("I am " + age + " years old.");<br>        System.out.println("I am a " + occupation + ".");<br>        System.out.println("Some of my interests include: " + interests + ".");<br>        System.out.println("Nice to meet you!");<br>    }<br>}
 
