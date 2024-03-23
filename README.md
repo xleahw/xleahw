@@ -1,8 +1,7 @@
 ![straw](https://github.com/xleahw/xleahw/assets/111613370/0084c5b1-41f2-4b9c-8f77-0875310f1c40)
 
 # 🍓 About Me:
-<h1 align="center">Hi 👋
-Welcome To My Page</h1>
+<h1 align="center">Hi 👋 <br> Welcome To My Page</h1>
 
 <h3> 
     
