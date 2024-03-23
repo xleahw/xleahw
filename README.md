@@ -2,7 +2,7 @@
 
 # 🍓 About Me:
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">public class aboutMe {
+<h3> public class aboutMe {
     public static void main(String[] args) {
         String name = "Maleah Weathersby";
         int age = 19;
