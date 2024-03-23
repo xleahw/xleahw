@@ -2,19 +2,20 @@
 
 # 🍓 About Me:
 <h1 align="center">Hi 👋</h1>
-<h3> public class aboutMe {
-    public static void main(String[] args) {
-        String name = "Maleah Weathersby";
-        int age = 19;
-        String occupation = "CS student at the University of Georgia";
-        String interests = "web development, car games, and nature";
-        System.out.println("Hello, I'm " + name + "!");
-        System.out.println("I am " + age + " years old.");
-        System.out.println("I am a " + occupation + ".");
-        System.out.println("Some of my interests include: " + interests + ".");
-        System.out.println("Nice to meet you!");
-    }
-}
+<h3> public class aboutMe { <br>
+    public static void main(String[] args) { <br>
+        String name = "Maleah Weathersby"; <br>
+        int age = 19; <br>
+        String occupation = "CS student at the University of Georgia"; <br>
+        String interests = "web development, car games, and nature"; <br>
+        
+        System.out.println("Hello, I'm " + name + "!"); <br>
+        System.out.println("I am " + age + " years old."); <br>
+        System.out.println("I am a " + occupation + "."); <br>
+        System.out.println("Some of my interests include: " + interests + "."); <br>
+        System.out.println("Nice to meet you!"); <br>
+    } <br>
+} <br>
 </h3>
 
 ## 🌐 Socials:
