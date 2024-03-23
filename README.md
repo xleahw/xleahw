@@ -1,12 +1,15 @@
 ![straw](https://github.com/xleahw/xleahw/assets/111613370/0084c5b1-41f2-4b9c-8f77-0875310f1c40)
 
 # 🍓 About Me:
-<h1 align="center">Hi 👋 Welcome To My Page</h1>
+<h1 align="center">Hi 👋
+Welcome To My Page</h1>
 
 <h3> 
     
-    public class aboutMe {
-    public static void main(String[] args) {
+    public class aboutMe 
+    {
+    public static void main(String[] args) 
+       {
         String name = "Maleah Weathersby";
         int age = 19;
         String occupation = "CS student at the University of Georgia";
@@ -16,7 +19,7 @@
         System.out.println("I am a " + occupation + "."); 
         System.out.println("Some of my interests include: " + interests + ".");
         System.out.println("Nice to meet you!");
-    }
+       }
     }
 </h3>
 
